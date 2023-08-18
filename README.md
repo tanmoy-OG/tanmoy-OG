@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hii there 👋<br><br>👤 I am Tanmoy Choudhury!!<br>🎯 I am currently learning MERN Stack.<br>🖥️ I am a learning Front-end developer, working on ReactJs, Tailwind CSS, Bootstrap.<br>💥 I am currently working on Bits2Bytes2k23, the official tech fest website of my College for this year.<br>💥 I am also building Impulse2k23, the official cultural fest website of my college.<br><br>Besides development, I am also engaged in Communities,<br>🎤 I am a Content Lead @HackForCode,<br>📃 I also love writing Tech Blogs @Hashnode.<br>🌟 I am also a leading designer for all student lead content at my College.
+Hii there 👋<br><br>👤 I am Tanmoy Choudhury!!<br>🎯 I am currently learning DSA and MERN Stack.<br>🖥️ I am a learning Front-end developer, working on ReactJs, Tailwind CSS, Bootstrap.<br>💥 I am currently working on a Quiz App.<br>💬 Talk to me about DSA, Web Dev.<br>🫱🏻‍🫲🏽 Let's collab on a project, contact me.<br>🏝️ Dream destination... SDE.<br><br>Besides development, I am also engaged in Communities,<br>🎤 I am a Content Lead @HackForCode.<br>💬 I am 2024 HackItOn Commitee member; the official Coding Club of my College.<br>📃 I also love writing Tech Blogs @Hashnode.<br>🌟 I am also a leading designer for all student lead content at my College.
 
 
 ## 🌐 Socials:
